@@ -1,1 +1,2 @@
 Edition du document.
+Deuxième édition depuis Github.
